@@ -1,3 +1,4 @@
+<?php
 $i = 1;
 
 switch($i) {

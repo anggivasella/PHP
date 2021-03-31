@@ -1,3 +1,4 @@
+<?php
 class Father {
 
 final function useMoney() {

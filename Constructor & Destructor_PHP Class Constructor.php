@@ -1,3 +1,4 @@
+<?php
 class User {
 
 publicfunction__construct(){

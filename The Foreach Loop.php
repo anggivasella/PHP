@@ -1,3 +1,4 @@
+<?php
 $items = array("one", "two", "three");
 
 foreach($items as $item)   {

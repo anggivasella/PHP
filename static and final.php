@@ -1,3 +1,4 @@
+<?php
 class Singer {
 
 static$name = "Jone";
@@ -11,3 +12,4 @@ echoself::$name;
 }
 
 Singer::toSing();
+?>

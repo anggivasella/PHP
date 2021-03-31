@@ -1,3 +1,4 @@
+<?php
 classSinger {
 
 public $name = "Ann";

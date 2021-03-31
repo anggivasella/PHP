@@ -1,3 +1,4 @@
+<?php
 class A {
 final function Foo() {
 echo "A";

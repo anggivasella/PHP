@@ -1,3 +1,4 @@
+<?php
 /* Nama: John
 
 Umur: 24

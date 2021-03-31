@@ -1,3 +1,4 @@
+<?php
 classStudent {
 
 public $name;
@@ -12,3 +13,4 @@ echo$this->age;
 }
 
 }
+?>

@@ -1,3 +1,4 @@
+<?php
 if($gender == 0)
 
 echo "Male";

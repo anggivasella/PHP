@@ -1,3 +1,4 @@
+<?php
 class Musician{
 
 public $name;
@@ -13,3 +14,4 @@ echo "Playing on piano";
 class Singer extends Musician {
 
 }
+?>

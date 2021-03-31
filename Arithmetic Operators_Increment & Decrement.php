@@ -4,3 +4,4 @@ $num--;
 echo $num;
 ?>
 //outputnya 17
+

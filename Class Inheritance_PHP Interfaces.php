@@ -1,3 +1,4 @@
+<?php
 interfaceIMusician {
 
 public function play();
@@ -13,3 +14,4 @@ echo "playin a guitar";
 }
 
 }
+?>

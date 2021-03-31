@@ -1,3 +1,4 @@
+<?php
 for ($i=0; $i<=10;$i++) {
 if ($i%2 != 0) {
 continue;
@@ -5,3 +6,4 @@ continue;
 echo $i."<br/>";
 }
 //Using the for loop, print only the even numbers between 0 and 10.
+?>

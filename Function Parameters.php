@@ -1,3 +1,4 @@
+<?php
 function test($num) {
 echo $num/2;
 }
